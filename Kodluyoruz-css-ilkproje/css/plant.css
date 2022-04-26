@@ -1,0 +1,46 @@
+body {
+    background-color: navajowhite;
+    color: black;
+}
+header {
+    background-color: rgb(141, 106, 63);
+}
+  section {
+      text-align: center;
+  }
+  aside {
+      text-align: center;
+      border-style: double;
+      border-color: rgb(4, 54, 4);
+  }
+ ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10;
+    overflow: hidden;
+    background-color: rgb(1, 44, 35);
+  }
+  li {
+    float: left;
+    overflow: hidden;
+    
+  }
+  
+  li a {
+    display: block;
+    font-size: xx-large;
+    text-transform: uppercase;
+    color: rgb(214, 198, 106);
+    padding: 25px 20px;
+    text-decoration: none;
+  }
+  h2 {
+    color: rgb(4, 54, 4);
+    font-size: x-large;
+    text-transform: uppercase;
+   
+}
+h3 {
+    color: rgb(4, 54, 4);
+    font-size: large;
+}
